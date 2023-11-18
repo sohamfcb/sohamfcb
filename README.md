@@ -34,7 +34,7 @@ I am determined to keep learning and improving. Here are some things that have b
 - [Resource 1: Data Science Mentorship Program]((https://campusx1040.graphy.com/courses/Data-Science-Mentorship-Program-DSMP-20-653f50d1e4b0d2eae855480a)) -
 - This is a comprehensive end-to-end data science course that covers everything starting from the basics of Python to deploying ML models on the cloud alongwith many end-to-end real-life projects.
   
-- [Item 2: Title]([link-to-resource-2](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn))
+- [Item 2: Title][link-to-resource-2](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn))
 - A YouTube playlist that covers all the fundamentals of neural networks. Each concept is covered in a very detailed matter.
 
 ## Connect with Me
