@@ -14,17 +14,17 @@ Welcome to my GitHub profile! I am a dedicated student of data science with a pa
 
 Here are some highlights of the services you will find in this store:
 
-### [Face Mask Detector using TensorFlow]([(https://github.com/sohamfcb/face-mask-detector)])
+### Face Mask Detector using TensorFlow - (https://github.com/sohamfcb/face-mask-detector)
 A practice project that can figure out whether a person is wearing a mask or not from real time webcam streams. It was trained on a dataset consisting of pictures of people with and without a mask. The VGG-16 model was used as a base model that was trained. CV2 was used to capture real time webcam streams and capture the frames from them which were analysed.A practice project that can figure out whether a person is wearing a mask or not from real time webcam streams. It was trained on a dataset consisting of pictures of people with and without a mask. The VGG-16 model was used as a base model that was trained. CV2 was used to capture real time webcam streams and capture the frames from them which were analysed.
 
 Skills: TensorFlow · Keras · Artificial Intelligence (AI) · Image Recognition · Convolutional Neural Networks (CNN) · Python (Programming Language) · Supervised Learning
 
-### [Movie Recommendation Engine] - (https://github.com/sohamfcb/movie-recommender)
+### Movie Recommendation Engine - (https://github.com/sohamfcb/movie-recommender)
 A practice project that recommends 5 similar movies to a given movie. It calculates the similarity between two movies through its content by their cosine similarity. The text documents are converted to vectors (bag of words representation in this case) using sklearn's CountVectorizer class after which the cosine similarities between the vectors were calculated.A practice project that recommends 5 similar movies to a given movie. It calculates the similarity between two movies through its content by their cosine similarity. The text documents are converted to vectors (bag of words representation in this case) using sklearn's CountVectorizer class after which the cosine similarities between the vectors were calculated.
 
  Skills: Keras · Feature Engineering · Artificial Intelligence (AI) · Text Analytics · Natural Language Processing (NLP) · Machine Learning · Python (Programming Language) · Pandas (Software) 
 
-### [Task 3: Title]([Link-Task-3](https://github.com/sohamfcb/whatsapp-chat-analyzer-project))
+### WhatsApp CHat Analyzer - (https://github.com/sohamfcb/whatsapp-chat-analyzer-project)
 Provides a full fledged analysis of group chats as well as DMs. 
 
 ## Learning resources
