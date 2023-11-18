@@ -35,7 +35,8 @@ I am determined to keep learning and improving. Here are some things that have b
 - This is a comprehensive end-to-end data science course that covers everything starting from the basics of Python to deploying ML models on the cloud alongwith many end-to-end real-life projects.
   
 **II) 100 Days of Deep Learning** - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
-- A YouTube playlist that covers all the fundamentals of neural networks. Each concept is covered in a very detailed matter.
+- A YouTube playlist that covers all the fundamentals of neural networks. Each concept is covered in a very detailed manner.
+- This playlist literally built my fundamental understanding of neural networks.
 
 # Connect with Me
 
