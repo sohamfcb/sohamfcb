@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a dedicated student of data science with a pa
 
 Here are some highlights of the services you will find in this store:
 
-### [Face Mask Detector using TensorFlow]([link-to-task-1](https://github.com/sohamfcb/face-mask-detector))
+### [Face Mask Detector using TensorFlow]([(https://github.com/sohamfcb/face-mask-detector)])
 A practice project that can figure out whether a person is wearing a mask or not from real time webcam streams. It was trained on a dataset consisting of pictures of people with and without a mask. The VGG-16 model was used as a base model that was trained. CV2 was used to capture real time webcam streams and capture the frames from them which were analysed.A practice project that can figure out whether a person is wearing a mask or not from real time webcam streams. It was trained on a dataset consisting of pictures of people with and without a mask. The VGG-16 model was used as a base model that was trained. CV2 was used to capture real time webcam streams and capture the frames from them which were analysed.
 
 Skills: TensorFlow · Keras · Artificial Intelligence (AI) · Image Recognition · Convolutional Neural Networks (CNN) · Python (Programming Language) · Supervised Learning
