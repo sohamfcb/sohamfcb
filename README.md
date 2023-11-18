@@ -2,7 +2,7 @@ A #Data Science student interested in #Neural Networks 🧠
 
 Welcome to my GitHub profile! I am a dedicated student of data science with a passion for exploring and applying neurons. This repository is a collection of my projects, experiments and teaching materials in the fascinating world of data science and machine learning.
 
-## About me
+# About me
 
 🎓 I am currently pursuing my Masters in Data Science, where I hone my skills in statistics, programming and machine learning.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a dedicated student of data science with a pa
 
 🌟 I am particularly interested in the interesting muscles, where I like to delve into sophisticated techniques and applications.
 
-## Projects
+# Projects
 
 Here are some highlights of the services you will find in this store:
 
@@ -27,14 +27,14 @@ A practice project that recommends 5 similar movies to a given movie. It calcula
 ### WhatsApp CHat Analyzer - (https://github.com/sohamfcb/whatsapp-chat-analyzer-project)
 Provides a full fledged analysis of group chats as well as DMs. 
 
-## Learning resources
+# Learning resources
 
 I am determined to keep learning and improving. Here are some things that have been invaluable to me on my journey.
 
-[Resource 1: Data Science Mentorship Program] - https://campusx1040.graphy.com/courses/Data-Science-Mentorship-Program-DSMP-20-653f50d1e4b0d2eae855480a) 
+[Data Science Mentorship Program] - https://campusx1040.graphy.com/courses/Data-Science-Mentorship-Program-DSMP-20-653f50d1e4b0d2eae855480a) 
 - This is a comprehensive end-to-end data science course that covers everything starting from the basics of Python to deploying ML models on the cloud alongwith many end-to-end real-life projects.
   
-[Item 2: 100 Days of Deep Learning] - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+[100 Days of Deep Learning] - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 - A YouTube playlist that covers all the fundamentals of neural networks. Each concept is covered in a very detailed matter.
 
 ## Connect with Me
