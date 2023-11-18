@@ -1,6 +1,6 @@
 A #Data Science student interested in #Neural Networks 🧠
 
-Welcome to my GitHub profile! I am a dedicated student of data science with a passion for exploring and applying neurons. This repository is a collection of my projects, experiments and teaching materials in the fascinating world of data science and machine learning.
+Welcome to my GitHub profile! I am a dedicated data science student with a strong enthusiasm for exploring and implementing neural networks. This repository is a collection of my projects, experiments, and learning resources in the exciting world of data science and machine learning.
 
 # About me
 
@@ -37,7 +37,7 @@ I am determined to keep learning and improving. Here are some things that have b
 - **100 Days of Deep Learning** - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 - A YouTube playlist that covers all the fundamentals of neural networks. Each concept is covered in a very detailed matter.
 
-## Connect with Me
+# Connect with Me
 
 Let's connect and collaborate! Feel free to reach out to me through the following channels:
 
