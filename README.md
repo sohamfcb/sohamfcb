@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a dedicated data science student with a stron
 
 🚀 My journey in data science is driven by a passion for extracting insights from data and creating solutions to real problems.
 
-🌟 I am particularly interested in the interesting muscles, where I like to delve into sophisticated techniques and applications.
+🌟 Particularly, I have a keen interest in the fascinating realm of neural networks, where I am eager to delve into cutting-edge techniques and applications.
 
 # Projects
 
