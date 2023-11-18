@@ -1,4 +1,4 @@
-A #Data Science student interested in #Neural Networks 🧠
+# Data Science Student with a Passion for Neural Networks 🧠
 
 Welcome to my GitHub profile! I am a dedicated data science student with a strong enthusiasm for exploring and implementing neural networks. This repository is a collection of my projects, experiments, and learning resources in the exciting world of data science and machine learning.
 
