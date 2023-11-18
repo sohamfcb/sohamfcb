@@ -41,7 +41,7 @@ I am determined to keep learning and improving. Here are some things that have b
 
 Let's connect and collaborate! Feel free to reach out to me through the following channels:
 
-- LinkedIn: [LinkedIn Profile]([link-to-linkedin-profile](https://www.linkedin.com/in/soham-mukherjee-962b95272/))
+- LinkedIn: [LinkedIn Profile](link-to-linkedin-profile](https://www.linkedin.com/in/soham-mukherjee-962b95272/)
 - Instagram: [InstaHandle]([link-to-twitter](https://www.instagram.com/__.you_know_who)https://www.instagram.com/__.you_know_who)
 
 
