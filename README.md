@@ -27,9 +27,9 @@ A practice project that recommends 5 similar movies to a given movie. It calcula
 ### [**WhatsApp Chat Analyzer**](https://github.com/sohamfcb/whatsapp-chat-analyzer-project)
 Provides a full fledged analysis of group chats as well as DMs. 
 
-# Learning resources
+# Learning Resources
 
-I am determined to keep learning and improving. Here are some things that have been invaluable to me on my journey.
+I am determined to keep learning and improving. Here are some resouces that have been invaluable to me on my journey.
 
 [**I) Data Science Mentorship Program**](https://campusx1040.graphy.com/courses/Data-Science-Mentorship-Program-DSMP-20-653f50d1e4b0d2eae855480a) 
 - This is a comprehensive end-to-end data science course that covers everything starting from the basics of Python to deploying ML models on the cloud alongwith many end-to-end real-life projects.
