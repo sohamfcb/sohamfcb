@@ -44,6 +44,7 @@ Let's connect and collaborate! Feel free to reach out to me through the followin
 
 - LinkedIn: [Soham Mukherjee](https://www.linkedin.com/in/soham-mukherjee-962b95272/)
 - Instagram: [__.you_know_who](https://www.instagram.com/__.you_know_who)
+- e-Mail: soumyapu31@gmail.com
 
 
 I'm open to discussions, collaborations, and feedback. Let's learn and grow together in the exciting field of data science and neural networks!
