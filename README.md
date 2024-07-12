@@ -25,7 +25,7 @@ A practice project that recommends 5 similar movies to a given movie. It calcula
  Skills: Keras · Feature Engineering · Artificial Intelligence (AI) · Text Analytics · Natural Language Processing (NLP) · Machine Learning · Python (Programming Language) · Pandas (Software) 
 
 ### [**WhatsApp Chat Analyzer**](https://github.com/sohamfcb/whatsapp-chat-analyzer-project)
-Provides a full fledged analysis of group chats as well as DMs. 
+A WhatsApp Chat Analyzer built with Streamlit. This web app allows users to upload and analyze their WhatsApp chat data, providing insights such as message counts, word counts, media and links shared, activity timelines, and emoji usage. It features detailed statistics, activity maps, word clouds, and heatmaps to help users understand their communication patterns better. Check it out and let me know what you think!
 
 # Learning Resources
 
