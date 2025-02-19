@@ -11,7 +11,7 @@ My journey into AI started with a curiosity to make technology more human-like, 
 - **MLOps & AI Deployment:** Ensuring AI models are scalable and efficient using **Streamlit, Flask, and Firebase**.
 
 🔹 **M.Sc. Data Science** @ NSHM College of Management and Technology  
-🔹 **Tech Stack:** Python, TensorFlow, PyTorch, OpenCV, MySQL, Firebase, Streamlit  
+🔹 **Tech Stack:** Python, TensorFlow, PyTorch, Scikit-learn, MySQL, Streamlit, LangChain, LLMs, RAGs  
 🔹 **Currently Exploring:** Generative AI, Retrieval-Augmented Generation (RAG), Hyperparameter Optimization  
 
 ---
