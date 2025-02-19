@@ -13,6 +13,7 @@ My journey into AI started with a curiosity to make technology more human-like, 
 🔹 **M.Sc. Data Science** @ NSHM College of Management and Technology  
 🔹 **Tech Stack:** Python, TensorFlow, PyTorch, Scikit-learn, MySQL, Streamlit, LangChain, LLMs, RAGs  
 🔹 **Portfolio:** [Click here](https://www.sohamfcb.github.io)
+
 🔹 **Currently Exploring:** Generative AI, Retrieval-Augmented Generation (RAG), Hyperparameter Optimization  
 
 ---
